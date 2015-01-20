@@ -1,0 +1,36 @@
+homework00: Introduce yourself
+==============================
+
+Due date:: End of day, 22 Jan 2015
+
+Objectives
+----------
+
+The purpose of this assignment is twofold:
+
+1. Introduce yourself to me so that I can better understand your background and what you hope to get from this course.
+2. Become familiar with the homework submission process
+
+
+Procedure
+---------
+
+Below, I describe both the generic procedure for submitting your homework and the specific requirements for this exercise.
+
+=== General homework procedure
+
+1. You will need to sign up and get a free https://www.github.com[GitHub] account.  If you like, you can apply for the student pack available at https://education.github.com[], but that is not required for this course.
+2. Next, you will need to log in to the site and browse to the repository for this assignment, https://github.com/nau-comp3320/homework00[].  From there, you will need to https://guides.github.com/activities/forking/[**Fork**] the repository.
+3. Once you have your own copy of the homework repository, you will can http://gitref.org/creating/#clone[+clone+] the repository to your local computer.
+4. Now, you can complete your work and http://gitref.org/basic/#commit[+commit+] your changes to your local repository.
+5. Once you have completed your work, you can http://gitref.org/remotes/#push[+push+]/sync your changes to your fork of the homework repository.
+6. Once your work is complete, you can https://help.github.com/articles/creating-a-pull-request[create a **pull request**] on the original homework repository.  This will constitute turning in your assignment.
+
+You can always amend your pull request with new changes.  I will also be able to comment on the pull request to give you feedback.
+
+
+=== This assignment
+
+In this repository, there is a folder called +students+ with a file called +template.md+.  Please make a copy of this file using your name as part of the file name.  Once copied, please fill answer the questions.  You will then be able to http://gitref.org/basic/#add[+add+] it to the local repository before you +commit+ and +push+.
+
+Note that the file is using https://help.github.com/articles/markdown-basics/[Markdown] as simple text-based markup language.  Feel free to format your homework, but you don't really need to do anything special for this assignment.
