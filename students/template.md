@@ -1,40 +1,51 @@
 # About me
 
-given_name surname <email_address>
+Eyyup Sayli
+esayli7@gmail.com
+www.linkedin.com/in/eyyupsayli/
 
 # Programming languages background
 
+    Javascript,AngularJS,Jquery,NodeJS,MySql
+    C#,Asp.Net,Sql
+    Java
+
 ## Languages I have used
 
-I have used…
+I have used
+
+    Javascript,AngularJS,Jquery,NodeJS,MySql
+    C#,Asp.Net,Sql
+    Java
+
 
 ## What is your favourite language?  Why?
 
-I love…
+Javascript, AngularJS
+it is very easy to code for me
 
 ## What is your least-liked language?  Why?
 
-I dislike…
+There is no language that I dislike :)
 
 ## Are there any particular languages that you want to learn?
 
-I would like to learn…
-
+Objective C, Swift
 
 # Tools
 
 ## Will you be using your own computer or using a lab?
 
-Own computer/lab
+Own computer
 
 ## What operating system will you be using?
 
-Windows/OS X/Linux
+Windows/Linux
 
 ## Have you used a version control system before?  If so, which ones?
 
-I have used…
+Yes, I have used Github
 
 ## What is your preferred editor?
 
-I use…
+Webstorm
