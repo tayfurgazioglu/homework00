@@ -1,40 +1,40 @@
 # About me
 
-given_name surname <email_address>
+Sami Tayfur Gazioglu
 
 # Programming languages background
 
 ## Languages I have used
 
-I have used…
+C++, C, Java, C#, JavaScript
 
 ## What is your favourite language?  Why?
 
-I love…
+C++ because I can do whatever I want in this language. Tutorials everywhere, easy to use for me AND Libraries.
 
 ## What is your least-liked language?  Why?
 
-I dislike…
+Java, For me it is hard to write code. I prefered to spend my time on other languages.
 
 ## Are there any particular languages that you want to learn?
 
-I would like to learn…
+Phyton
 
 
 # Tools
 
 ## Will you be using your own computer or using a lab?
 
-Own computer/lab
+I will use my own computer.
 
 ## What operating system will you be using?
 
-Windows/OS X/Linux
+Windows 8
 
 ## Have you used a version control system before?  If so, which ones?
 
-I have used…
+No, I didnt
 
 ## What is your preferred editor?
 
-I use…
+Visual Studio
